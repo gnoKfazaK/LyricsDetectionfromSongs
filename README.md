@@ -15,7 +15,14 @@ If deep learing is applied, the scope of the trained model will be the vocals of
 <img width="1043" height="533" alt="Telegram_photo" src="https://github.com/user-attachments/assets/95bcc06f-54d2-4d34-9919-71727aba4dfa" />
 
 ### How to run the program
-Go to the bot file
+#### Install libraries
+```pip install telepot python-telegram-bot requests```<br>
+
+#### Go to the bot file and run the bot.py
+```python bot.py```<br>
+
+Input the audio file after the model is loaded.<br>
+The script will output the lyrics to user just like the above. 
 
 
 
